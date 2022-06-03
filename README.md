@@ -3,7 +3,7 @@ We acknowledge the following authors for the real datasets used in this workshop
 
 **Large Movie Review Dataset**
 
-Source: Maas, Andrew, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. "Learning word vectors for sentiment analysis." In Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies, pp. 142-150. 20118
+Source: Maas, Andrew, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. "Learning word vectors for sentiment analysis." In Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies, pp. 142-150. 2011
 
 
 **Bank Marketing Campaign Dataset**
